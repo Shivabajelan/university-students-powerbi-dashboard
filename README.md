@@ -7,6 +7,8 @@ The dashboard is structured into multiple tabs, each focusing on specific aspect
 
 ## 📊 Dashboard Features
 1. Home Tab
+   
+<img src="images/Home_Tab.png" alt="Home Tab" width="400"/>
 
 University branding (logo and title).
 
@@ -14,7 +16,7 @@ Quick KPIs: Total Students, Total Courses, Total Departments, Gender Distributio
 
 Navigation buttons to other tabs.
 
-<img src="images/Home_Tab.png" alt="Home Tab" width="400"/>
+
 
 2. Student Overview Tab
 
