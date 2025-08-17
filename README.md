@@ -29,6 +29,8 @@ Navigation buttons to other tabs.
   - Pie chart: Gender Distribution.
 
   - Card visuals for highlights.
+  - 
+<img src="images/enrollment_trends.png" alt="Enrollment Trends" width="400"/>
 
 3. Gender Distribution Tab
 
