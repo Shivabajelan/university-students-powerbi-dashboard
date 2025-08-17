@@ -103,10 +103,15 @@ Two additional pages designed as tooltips to provide drill-through and hover ins
 
 - Visual Design: Created a user-friendly, professional layout with a mix of KPIs, charts, and maps.
 
-## ✅ Outcomes
 
-- Delivered a comprehensive BI solution that allows stakeholders to explore student and departmental data in multiple dimensions.
+## ✅ Conclusion & Next Steps
 
-- Provided insights into enrolment trends, applicant success rates, student demographics, graduation patterns, and departmental course structures.
+This dashboard provides a holistic view of the student lifecycle from application to graduation. It enables university stakeholders to:
 
-- Built a scalable model that can be adapted to real-world university datasets for decision-making.
+Track enrolments and applicants in real time.
+
+Identify demographic and geographic trends.
+
+Monitor department performance and graduation outcomes.
+
+Next steps could include integrating predictive analytics (e.g., forecasting enrolments, dropout risk analysis) and automating data refresh for real-time insights.
