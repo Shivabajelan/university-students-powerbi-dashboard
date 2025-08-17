@@ -17,15 +17,15 @@ Navigation buttons to other tabs.
 
 - Slicers: Gender, Department, Degree Type.
 
-  - KPIs: Student Count, Average Credits Earned.
+- KPIs: Student Count, Average Credits Earned.
 
-Visuals:
+- Visuals:
 
-Column chart: Students by Department.
+  -Column chart: Students by Department.
 
-Pie chart: Gender Distribution.
+  - Pie chart: Gender Distribution.
 
-Card visuals for highlights.
+  - Card visuals for highlights.
 
 3. Gender Distribution Tab
 
