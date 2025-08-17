@@ -29,7 +29,7 @@ Navigation buttons to other tabs.
   - Pie chart: Gender Distribution.
 
   - Card visuals for highlights.
-  - 
+    
 <img src="images/enrollment_trends.png" alt="Enrollment Trends" width="400"/>
 
 3. Gender Distribution Tab
@@ -43,6 +43,8 @@ Navigation buttons to other tabs.
   - Pie chart: Gender Breakdown.
 
   - Clustered bar chart: Students by Gender & Department.
+ 
+ <img src="images/applicants.png" alt="Applicants" width="400"/>
 
 
 4. Degree Overview Tab
