@@ -8,86 +8,81 @@ The dashboard is structured into multiple tabs, each focusing on specific aspect
 ## 📊 Dashboard Features
 1. Home Tab
    
+- central navigation hub with a clean design to guide users to each section.
+   
 <img src="images/Home_Tab.png" alt="Home Tab" width="400"/>
 
-University branding (logo and title).
 
-Quick KPIs: Total Students, Total Courses, Total Departments, Gender Distribution.
+2. Enrolment Trend Tab
 
-Navigation buttons to other tabs.
+- Slicers for Gender, Year, and Department.
 
+- Yearly enrolment trend line chart.
 
+- Enrolment by department and gender (stacked column chart).
 
-2. Student Overview Tab
-
-- Slicers: Gender, Department, Degree Type.
-
-- KPIs: Student Count, Average Credits Earned.
-
-- Visuals:
-
-  - Column chart: Students by Department.
-
-  - Pie chart: Gender Distribution.
-
-  - Card visuals for highlights.
+- KPIs: Total Students, Total Departments, Avg Enrolment per Year, Students’ Avg Age.
     
 <img src="images/enrollment_trends.png" alt="Enrollment Trends" width="400"/>
 
-3. Gender Distribution Tab
+3. Applicants Tab
 
-- Slicers: Department and Degree Type.
-  
-- KPI Cards for Female, Male, and Total Students.
+- Gender and Year Entry slicers.
 
-- Visuals:
+- Applicants by State (horizontal bar chart).
 
-  - Pie chart: Gender Breakdown.
+- Admission outcomes (donut chart for admitted vs denied).
 
-  - Clustered bar chart: Students by Gender & Department.
+- Applicant gender distribution (pie chart).
+
+- KPIs: Total Applicants, Total Admitted Applicants, Admission Rate %, Avg GPA.
  
  <img src="images/applicants.png" alt="Applicants" width="400"/>
 
 
-4. Degree Overview Tab
+4. Students Tab
 
-- Slicers: Department and Gender.
+- Term and Year slicers.
 
-- Visuals:
+- Student distribution by state (bar chart + map with bubble distribution).
 
-  - Stacked bar chart: Degree Types by Department.
+- Class Standing distribution (treemap).
 
-  - Pie chart: Degree Distribution (Bachelor, Master, Master Certificate).
+- Top 5 states with highest student enrolment (column chart).
 
-  - Table: Number of courses per degree type.
+- KPIs: Total Students, Total Female Students, Total Male Students, F:M Ratio.
 
-5. Course Overview Tab
+  <img src="images/students.png" alt="Students" width="400"/>
 
-- Slicers: Department, Degree Type.
+5. Graduation Insights Tab
 
-- KPI: Total Courses, Total Credits, Average Credits.
+- Term and Department slicers.
 
-- Visuals:
+- Graduates by department (horizontal bar chart).
 
-  - Table: Course titles with corresponding credits.
+- Student status distribution (Active, Withdrawn, Graduated).
 
-  - Column chart: Courses by Department.
+- Graduation trend by year (line chart).
+
+- Graduate gender distribution (donut chart).
+
+- KPIs: Total Graduates, Graduation Rate.
+
+ <img src="images/graduation_insights.png" alt="Graduation Insights" width="400"/> 
 
 6. Department Overview Tab
 
-- Slicers: Department and Gender.
+- Department and Gender slicers.
+
+- Table of courses per department with credit requirements.
+
+- Degree types by department (stacked column chart: Bachelor, Master, Certificate).
+
+- Gender distribution within each department (pie chart).
+
+- Student numbers by department and gender (column chart).
 
 - KPIs: Total Departments, Total Degrees, Total Course Titles.
-
-- Visuals:
-
-  - Table: Department courses at a glance (with credits).
-
-  - 100% stacked column chart: Degree Type by Department.
-
-  - Pie chart: Gender percentage by department.
-
-  - Column chart: Students by Department & Gender.
 
 <img src="images/department_overview.png" alt="Department Overview" width="400"/>
 
