@@ -13,6 +13,7 @@ University branding (logo and title).
 Quick KPIs: Total Students, Total Courses, Total Departments, Gender Distribution.
 
 Navigation buttons to other tabs.
+
 <img src="images/Home_Tab.png" alt="Home Tab" width="400"/>
 
 2. Student Overview Tab
