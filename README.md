@@ -89,6 +89,9 @@ Navigation buttons to other tabs.
 
   - Column chart: Students by Department & Gender.
 
+<img src="images/department_overview.png" alt="Department Overview" width="400"/>
+
+
 
 7. Tooltip Tabs
 
