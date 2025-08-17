@@ -21,7 +21,7 @@ Navigation buttons to other tabs.
 
 - Visuals:
 
-  -Column chart: Students by Department.
+  - Column chart: Students by Department.
 
   - Pie chart: Gender Distribution.
 
@@ -29,55 +29,57 @@ Navigation buttons to other tabs.
 
 3. Gender Distribution Tab
 
-Slicers: Department and Degree Type.
+- Slicers: Department and Degree Type.
+  
+- KPI Cards for Female, Male, and Total Students.
 
-Visuals:
+- Visuals:
 
-Pie chart: Gender Breakdown.
+  - Pie chart: Gender Breakdown.
 
-Clustered bar chart: Students by Gender & Department.
+  - Clustered bar chart: Students by Gender & Department.
 
-KPI Cards for Female, Male, and Total Students.
 
 4. Degree Overview Tab
 
-Slicers: Department and Gender.
+- Slicers: Department and Gender.
 
-Visuals:
+- Visuals:
 
-Stacked bar chart: Degree Types by Department.
+  - Stacked bar chart: Degree Types by Department.
 
-Pie chart: Degree Distribution (Bachelor, Master, Master Certificate).
+  - Pie chart: Degree Distribution (Bachelor, Master, Master Certificate).
 
-Table: Number of courses per degree type.
+  - Table: Number of courses per degree type.
 
 5. Course Overview Tab
 
-Slicers: Department, Degree Type.
+- Slicers: Department, Degree Type.
 
-Visuals:
+- KPI: Total Courses, Total Credits, Average Credits.
 
-Table: Course titles with corresponding credits.
+- Visuals:
 
-KPI: Total Courses, Total Credits, Average Credits.
+  - Table: Course titles with corresponding credits.
 
-Column chart: Courses by Department.
+  - Column chart: Courses by Department.
 
 6. Department Overview Tab
 
-Slicers: Department and Gender.
+- Slicers: Department and Gender.
 
-Visuals:
+- KPIs: Total Departments, Total Degrees, Total Course Titles.
 
-Table: Department courses at a glance (with credits).
+- Visuals:
 
-100% stacked column chart: Degree Type by Department.
+  - Table: Department courses at a glance (with credits).
 
-Pie chart: Gender percentage by department.
+  - 100% stacked column chart: Degree Type by Department.
 
-Column chart: Students by Department & Gender.
+  - Pie chart: Gender percentage by department.
 
-KPIs: Total Departments, Total Degrees, Total Course Titles.
+  - Column chart: Students by Department & Gender.
+
 
 7. Tooltip Tabs
 
