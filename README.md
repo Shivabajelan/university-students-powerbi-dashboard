@@ -15,9 +15,9 @@ Navigation buttons to other tabs.
 
 2. Student Overview Tab
 
-Slicers: Gender, Department, Degree Type.
+- Slicers: Gender, Department, Degree Type.
 
-KPIs: Student Count, Average Credits Earned.
+  - KPIs: Student Count, Average Credits Earned.
 
 Visuals:
 
