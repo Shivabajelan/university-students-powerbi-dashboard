@@ -94,6 +94,9 @@ Navigation buttons to other tabs.
 
 Two additional pages designed as tooltips to provide drill-through and hover insights on selected visuals. 
 
+<img src="images/tooltip1.png" alt="Tooltip1" width="400"/>
+<img src="images/tooltip2.png" alt="Tooltip2" width="400"/>
+
 ## 🛠️ Skills & Tools Used
 
 - Power BI: Data modelling, DAX measures, slicers, custom tooltips, interactive visuals.
