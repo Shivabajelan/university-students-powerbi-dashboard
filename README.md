@@ -83,4 +83,20 @@ Navigation buttons to other tabs.
 
 7. Tooltip Tabs
 
-Two additional pages designed as tooltips to provide drill-through and hover insights on selected visuals.
+Two additional pages designed as tooltips to provide drill-through and hover insights on selected visuals. 
+
+🛠️ Skills & Tools Used
+
+- Power BI: Data modelling, DAX measures, slicers, custom tooltips, interactive visuals.
+
+- Data Transformation: Cleaned and structured raw data for fact and dimension modelling.
+
+- Visual Design: Created a user-friendly, professional layout with a mix of KPIs, charts, and maps.
+
+✅ Outcomes
+
+- Delivered a comprehensive BI solution that allows stakeholders to explore student and departmental data in multiple dimensions.
+
+- Provided insights into enrolment trends, applicant success rates, student demographics, graduation patterns, and departmental course structures.
+
+- Built a scalable model that can be adapted to real-world university datasets for decision-making.
